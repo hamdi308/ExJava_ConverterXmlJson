@@ -28,11 +28,9 @@ public class CsvToJsonXmlConverter {
             String phone = clientData[2];
             String email = clientData[3];
             String dateString = clientData[4];
-//          DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
             DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
             Date dateNaissance = dateFormat.parse(dateString);
             clients.add(new Client(name, secname, phone, email, dateNaissance));
-
         }
         return clients;
     }

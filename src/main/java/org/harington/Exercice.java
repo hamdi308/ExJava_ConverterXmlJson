@@ -19,6 +19,12 @@ public class Exercice {
 }
     public static void main(String[] args) throws JAXBException, IOException, ParseException {
         String csvPath="C:\\Users\\hadda\\Desktop\\exercice\\src\\main\\java\\org\\harington\\clients.csv";
-        converter(csvPath,"Json");
+        try{
+            converter(csvPath,"Json");
+            System.out.println("File converted");
+        }catch (IOException e){
+            e.printStackTrace();
+        }
+
     }
 }

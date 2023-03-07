@@ -7,7 +7,6 @@ import java.util.List;
 
 @Data
 @XmlRootElement
-
 public class Clients {
     private List<Client> clients;
 }
