@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clients>
+    <clients>
+        <dateNaissance>1998-06-28T00:00:00Z</dateNaissance>
+        <email>haddahamdi@gmail</email>
+        <name>hamdi</name>
+        <phone>94365066</phone>
+        <secname>hadda</secname>
+    </clients>
+    <clients>
+        <dateNaissance>1998-06-29T00:00:00Z</dateNaissance>
+        <email>haddahamdi2@gmail</email>
+        <name>hamdi1</name>
+        <phone>94365067</phone>
+        <secname>hadda1</secname>
+    </clients>
+    <clients>
+        <dateNaissance>1998-06-30T00:00:00Z</dateNaissance>
+        <email>haddahamdi3@gmail</email>
+        <name>hamdi2</name>
+        <phone>94365068</phone>
+        <secname>hadda2</secname>
+    </clients>
+    <clients>
+        <dateNaissance>1998-07-01T00:00:00Z</dateNaissance>
+        <email>haddahamdi4@gmail</email>
+        <name>hamdi3</name>
+        <phone>94365069</phone>
+        <secname>hadda3</secname>
+    </clients>
+    <clients>
+        <dateNaissance>1998-07-02T00:00:00Z</dateNaissance>
+        <email>haddahamdi5@gmail</email>
+        <name>hamdi4</name>
+        <phone>94365070</phone>
+        <secname>hadda4</secname>
+    </clients>
+    <clients>
+        <dateNaissance>1998-07-03T00:00:00Z</dateNaissance>
+        <email>haddahamdi6@gmail</email>
+        <name>hamdi5</name>
+        <phone>943650671</phone>
+        <secname>hadda5</secname>
+    </clients>
+</clients>
